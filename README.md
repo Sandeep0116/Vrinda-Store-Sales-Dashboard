@@ -1,1 +1,1 @@
-# Vrinda-Store-Sales-Dashboard
+Vrinda Store wants to analyze its sales data for 2022 in order to evaluate its marketing strategy and enhance sales growth in 2023. The following steps were undertaken for data gathering, cleaning, and processing.
